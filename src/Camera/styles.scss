@@ -1,0 +1,40 @@
+.App {
+    font-family: sans-serif;    
+  }
+
+.content{
+    height: 350px;
+    width: 300px;
+    max-height: 350px;
+    max-width: 300px;
+    background: gray;
+    margin: auto;    
+    padding: 8px;
+    text-align: center;
+}
+  
+.conteiner{
+    display: flex;    
+}
+
+.flex-column{
+    flex-direction: column;
+}
+
+.flex-row{
+    flex-direction: row;
+}
+
+.conteiner-item{
+    flex: 1;
+    margin: 2px;
+}
+
+.start{
+    text-align: left;
+}
+
+.end{
+    text-align: right;
+    
+}

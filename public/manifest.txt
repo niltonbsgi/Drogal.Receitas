@@ -1,0 +1,25 @@
+{
+    "short_name": "Drogal Receitas",
+    "name": "Drogal Receitas",
+    "icons": [
+        {
+            "src": "https://view.drogal.com.br/icon-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "https://view.drogal.com.br/icon-512x512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ],
+    "start_url": ".",
+    "display": "standalone",
+    "theme_color": "#000000",
+    "background_color": "#ffffff",    
+    "lang": "",
+    "screenshots": [],
+    "url": "https://view.drogal.com.br/",
+    "splash_pages": null,
+    "prefer_related_applications": false
+}
